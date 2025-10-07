@@ -1,0 +1,6 @@
+com\best_restaurants\filters\RestaurantFiltersTest.class
+com\best_restaurants\services\RestaurantServiceTest.class
+com\best_restaurants\BestRestaurantsApplicationTests.class
+com\best_restaurants\controllers\RestaurantsControllerTest.class
+com\best_restaurants\comparators\RestaurantComparatorsTest.class
+com\best_restaurants\RestaurantTestData.class
